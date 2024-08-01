@@ -1,3 +1,3 @@
 # <p align="center"><img src="https://github.com/Jab005.png" height="200px" width="auto"></p>
-# Jab? Who is that??
+# <p align="center">Jab? Who is that??</p>
 Jab. Yes, it's my name.<br>I'm a teenager who likes about astronomical objects such as stars.<br>Always trying to stargazes the night sky, but the light pollution forbid me to see the beautiful of stars...
