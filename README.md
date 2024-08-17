@@ -1,3 +1,1 @@
-# <p align="center"><img src="contents/cat-20.png" height="200px" width="auto"></p>
-# <p align="center">Jab? Who is that??</p>
-Jab. Yes, it's my name.<br>I'm a teenager who likes about astronomical objects such as stars.<br>Always trying to stargazes the night sky, but the light pollution forbid me to see the beautiful of stars...
+Forgotten
