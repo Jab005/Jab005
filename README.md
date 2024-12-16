@@ -1,4 +1,4 @@
-<img src="https://github.com/Jab005.png" align="center" width="200px" height="auto"/>
+<h1 align="center"><img src="https://github.com/Jab005.png" width="200px" height="auto"/></h1>
 <h1 align="center">Jab005</h1>
 Hellooooooo world..!<br>
 I'm Jab, nice to meet ya.<br>
